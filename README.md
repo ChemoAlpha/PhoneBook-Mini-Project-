@@ -63,4 +63,29 @@ Hello guys this simple implemention of dbms in c++, this project is created usin
  
  <u>here are few tips that might help you with some problmes if occured  :</u>
  <ul>
+  <li>If you are unable to run apache server in xammp then open your cmd as adminster and run command "net stop http" it'll help</li>
+  <li>check the link setting everytime before running application</li>
+  <li>don't add change databse scheme it might give you an error</li>
+  <li>if your codeblocks is unable to find GNU GCC compiler then goto settings -->compiler-->Reset default its resolve your issue</li>
+</ul>
+ <br>
+ 
+ hope its compiled successsfully  and you find it helpful !!!;
+ 
+ 
+<h3>output screenshots</h3>
+<hr>
+
+![Error](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(12).png)
+
+
+
+
+
+
+![](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(13).png)
+
+
+
+
  
