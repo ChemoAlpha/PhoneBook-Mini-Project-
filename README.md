@@ -12,3 +12,55 @@ Hello guys this simple implemention of dbms in c++, this project is created usin
 <br>
 <hr>
  2. Add following files into your IDE folders 
+ <br>
+ >add mysqllib.a file which i have uploaded in files section to following location of your dev c++ IDE
+ 
+ ![Error](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(7).png )
+<br>
+<hr>
+ >add all files in MysqlHeaders to following location
+ <br>
+ 
+ 
+ ![Error](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(8).png)
+ 
+ 
+ <hr>
+ <br>
+ >now add mysqlib location path in codeblocks linker as follows
+ PATH: Project -->Build Options -->Linker settings-->add
+ add the file mysqllib.a file path here as follows
+ <br>
+ 
+ 
+ 
+ ![Error](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(9).png)
+ 
+ 
+ 
+ <br>
+ <hr>
+ >same as above add PATH of Include folder of Dev c++ where copied all files into search settings in build options of codeblcoks
+
+
+
+
+ ![Error](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(10).png)
+ 
+ 3. now install xampp IDE then create databse named "Phonebook " in it and add table named "users" with follwoing schemea
+ 
+ 
+ <hr>
+ <br>
+ 
+ 
+ ![Error](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(11).png)
+ 
+ 
+ 
+ 
+ Now if followed step correctly you would be able to run this project with any problems
+ 
+ <u>here are few tips that might help you with some problmes if occured  :</u>
+ <ul>
+ 
