@@ -12,3 +12,7 @@ Hello guys this simple implemention of dbms in c++, this project is created usin
 <br>
 <hr>
  2. Add following files into your IDE folders 
+ <br>
+ >add mysqllib.a file which i have uploaded in files section to following location of your dev c++ IDE
+ <hr>
+ ![](https://github.com/ChemoAlpha/PhoneBook-Mini-Project-/blob/main/Files/Screenshot%20(7).png)
